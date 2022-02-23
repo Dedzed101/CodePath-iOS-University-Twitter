@@ -1,8 +1,8 @@
-# Project 3 - *Name of App Here*
+# Project 3 - Twitter Clone App
 
-**Name of your app** is a basic twitter app to read your tweets.
+Twitter Clone App is a basic twitter app to read your tweets.
 
-Time spent: **X** hours spent in total
+Time spent: roughly six hours spent in total. There was a period of difficulty wehn the cells wouldnt format correctly. I had to just delete the entire table view alltogether and start from scratch to fix it.
 
 ## User Stories
 
