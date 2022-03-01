@@ -1,9 +1,5 @@
 # Project 3 - Twitter Clone App
 
-Twitter Clone App is a basic twitter app to read your tweets.
-
-Time spent: roughly six hours spent in total. There was a period of difficulty wehn the cells wouldnt format correctly. I had to just delete the entire table view alltogether and start from scratch to fix it.
-
 # Twitter - Part II
 
 This is a basic twitter app to view, compose, favorite, and retweet tweets.
@@ -29,6 +25,13 @@ The following **bonus** features are implemented:
 Here's a walkthrough of implemented user stories:
 
 <img src=http://g.recordit.co/K9BhoPg2DM.gif width=250/>
+
+
+Twitter Clone App is a basic twitter app to read your tweets.
+
+Time spent: roughly six hours spent in total. There was a period of difficulty wehn the cells wouldnt format correctly. I had to just delete the entire table view alltogether and start from scratch to fix it.
+
+# Twitter - Part I
 
 ## User Stories
 
